@@ -1,4 +1,5 @@
-# 💫 Hi! I'm Supriya - a CSE student passionate about tech, design, and building cool things.
+# 💫 Hi! I'm Supriya 
+a CSE student passionate about tech, design, and building cool things.
 
 Exploring the MERN Stack – a powerful combo of MongoDB, Express.js, React, and Node.js – to create dynamic and responsive full-stack web apps.
 Currently diving deep into AI & Machine Learning, and learning Python, NumPy, and Pandas step by step.
